@@ -1,0 +1,27 @@
+{
+    "name": "react-profile-map",
+    "version": "1.0.0",
+    "description": "A React web application to display profiles with interactive maps using OpenStreetMap.",
+    "main": "src/index.js",
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "dependencies": {
+      "@emotion/react": "^11.10.6",
+      "@emotion/styled": "^11.10.6",
+      "@mui/material": "^5.13.7",
+      "axios": "^1.4.0",
+      "leaflet": "^1.9.4",
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0",
+      "react-leaflet": "^4.2.0",
+      "react-router-dom": "^6.15.0"
+    },
+    "devDependencies": {},
+    "author": "Your Name",
+    "license": "MIT"
+  }
+  
